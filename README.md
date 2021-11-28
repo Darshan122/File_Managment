@@ -24,10 +24,5 @@ After that you get your all saparate file in their respactive folder............
 
 2)category wise:-
 
-Category wise is also like extantion wise.In extation wise folder name is given by there 
-extation and in categary wise folder name is given by categary wise.
-first import os no need to install.than givebasepath for file path.than give whitelist after 
-that we will give if condition.In if condition we have to give category wise folder name 
-like image,video,pdf etc.then give for loop for every category folder.after that give for 
-loop and take if condition in the for loop.after that every category wise folder will take 
-place....Then run the code.....!
+So now secondly it's category wise as said above now we will again import os but we don't need to download it from anywhere it's already inbuilt then we will create a basepath variable for the input of paths for files to organize  now we create a list in which which category we want to organize here I have organized category as vedios images and many more now we use if loop here first we check that if vedios are there then its will go to vedios if images then image and so on in the vedios I have entered mp3 and wav
+In the vedio I entered mp4 avi and many more so if this extension exist then it will go in that categorynow we will tack the define function define the move items for folder after the define the function we will tack the if condition for os.path.basepath is not in whislist and than print the move folder for the def function after the if condition we will tack ext file for ever whislist items the music ext file are consider the mp3,wav.... the video ext file are consider the mp4,,mov,mkv...or you can add other file and the image ext file consider the png,jpg or other image type... after tha tacking the file typewe will tack the for loop for every whislist and than tack if condition for image are not consider in whislist then remove it this for loop and if condition are suitable on all item in whislist like....video,image,music,file after the for loop and if condition end my program and run my program you can see my program are run sucessfully and say that enter the path so first i will copy my file path you can see my file are mixed format so paste the path in program and run the program and see my file folder are in the file like category wise thank you.......
